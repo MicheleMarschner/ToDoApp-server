@@ -1,17 +1,20 @@
-# ToDo App (MERN Stack)
+# ToDo App - Server (MERN Stack)
 
 ## Goal
-Creating a Full-Stack App that successfully connects frontend technologies with the backend. 
+Creating a Full-Stack App that successfully integrates frontend technologies with a customized backend and third party apis. 
 
   **Learning opportunities**
  - Combining the knowledge of backend & frontend
  - Handle State with useContext & useReducer in React
  - Using asynchronous functions (axios)
- 
-  --> I used the following Expense-Tracker youtube-video as a reference: [Part1](https://www.youtube.com/watch?v=XuFDcZABiDQ) & [Part2](https://www.youtube.com/watch?v=KyWaXA_NvT0)
+
+  --> I used the following Expense-Tracker youtube-video as a initial reference: [Part1](https://www.youtube.com/watch?v=XuFDcZABiDQ) & [Part2](https://www.youtube.com/watch?v=KyWaXA_NvT0)
 
 
 ## Screenshots
+*Coming soon*
+
+Click [here](https://github.com/MicheleMarschner/ToDoApp-client) to see the repo for the corresponding frontend (ToDoApp-client). 
 
 
 ## MVP - features
@@ -19,24 +22,24 @@ Creating a Full-Stack App that successfully connects frontend technologies with 
  - Add new ToDos
  - Delete all ToDos
  - Delete single ToDos
-
-**Upcoming**
  - Edit single ToDos
  - Mark single ToDos as done
  - Filter ToDos
- - Mobile Optimization & use of Accordion cards
- - Receive a random quote for the day
+ - Dashboard with random quote & weather forecast
 
+**Upcoming**
+ - Mobile Optimization
+ - Conversion into ful-blown productivity App with more detailed navigation (calendar view, dashboard, etc.)
+ 
   
 ## Tech-stack
  - React js (Functional Components)
- - Bootstrap
+ - Bootstrap & Customized CSS for styling
  - Node js / Express
- - MongoDB
+ - MongoDB / Mongoose
 
   
 ## Setup
-Required: A local mongoDB server, using MongoDB Compass or running mongod in your terminal OR mongoDB Atlas. 
 
 **Config**
 1.  Download or clone the repo, you need to follow this steps to have the development environment running :
