@@ -11,8 +11,8 @@ Creating a Full-Stack App that successfully integrates frontend technologies wit
   --> I used the following Expense-Tracker youtube-video as a initial reference: [Part1](https://www.youtube.com/watch?v=XuFDcZABiDQ) & [Part2](https://www.youtube.com/watch?v=KyWaXA_NvT0)
 
 
-## Screenshots
-*Coming soon*
+## Live Demo
+Click [here](https://todo-app-db1295.netlify.app)
 
 Click [here](https://github.com/MicheleMarschner/ToDoApp-client) to see the repo for the corresponding frontend (ToDoApp-client). 
 
