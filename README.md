@@ -1,5 +1,7 @@
 # ToDo App - Server (MERN Stack)
 
+![ToDoApp-picture](https://user-images.githubusercontent.com/49597398/93879572-362aca00-fcdc-11ea-98e3-692bf7446e3a.png)
+
 ## Goal
 Creating a Full-Stack App that successfully integrates frontend technologies with a customized backend and third party apis. 
 
